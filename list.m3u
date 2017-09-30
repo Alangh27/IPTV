@@ -195,47 +195,26 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network*
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg" group-title="USA",Pac-12 Washington HD
-http://xrxs.net/video/live-p12wash-4728.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg" group-title="USA",Pac-12 Los Angeles HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg" group-title="USA",Pac-12 Oregon HD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg" group-title="USA",Pac-12 Arizona HD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg" group-title="USA",Pac-12 Bay Area HD
-http://xrxs.net/video/live-p12baya-4728.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-main.jpg" group-title="USA",Pac-12 Network HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg" group-title="USA",Pac-12 Washington
-http://xrxs.net/video/live-p12wash-2328.m3u8
+http://stream.i4atv.info/ggwp/washington/ggp12w-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg" group-title="USA",Pac-12 Los Angeles
-http://xrxs.net/video/live-p12losa-2328.m3u8
+http://stream.i4atv.info/ggwp/losangeles/ggp12l-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg" group-title="USA",Pac-12 Oregon
-http://xrxs.net/video/live-p12oreg-2328.m3u8
+http://stream.i4atv.info/ggwp/oregon/ggp12o-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg" group-title="USA",Pac-12 Arizona
-http://xrxs.net/video/live-p12ariz-2328.m3u8
+http://stream.i4atv.info/ggwp/arizona/ggp12a-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
-http://xrxs.net/video/live-p12moun-2328.m3u8
+http://stream.i4atv.info/ggwp/mountain/ggp12m-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg" group-title="USA",Pac-12 Bay Area
-http://xrxs.net/video/live-p12baya-2328.m3u8
+http://stream.i4atv.info/ggwp/bayarea/ggp12b-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-main.jpg" group-title="USA",Pac-12 Network
-http://xrxs.net/video/live-p12netw-2328.m3u8
+http://stream.i4atv.info/ggwp/network/ggp12n-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://machammond.org/wp-content/uploads/2016/04/koolTV.gif" group-title="USA",Kool TV
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
