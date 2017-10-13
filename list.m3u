@@ -292,19 +292,25 @@ https://secure-streams.akamaized.net/rt-usa/index.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg" group-title="USA",Pac-12 Washington
-http://xrxs.net/video/live-p12wash-2328.m3u8
+http://stream.i4atv.info/ggwp/washington/ggp12w-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg" group-title="USA",Pac-12 Los Angeles
-http://xrxs.net/video/live-p12losa-2328.m3u8
+http://stream.i4atv.info/ggwp/losangeles/ggp12l-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg" group-title="USA",Pac-12 Oregon
-http://xrxs.net/video/live-p12oreg-2328.m3u8
+http://stream.i4atv.info/ggwp/oregon/ggp12o-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg" group-title="USA",Pac-12 Arizona
-http://xrxs.net/video/live-p12ariz-2328.m3u8
+http://stream.i4atv.info/ggwp/arizona/ggp12a-mobile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
-http://xrxs.net/video/live-p12moun-2328.m3u8
+http://stream.i4atv.info/ggwp/mountain/ggp12m-mobile.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg" group-title="USA",Pac-12 Bay Area
+http://stream.i4atv.info/ggwp/bayarea/ggp12b-mobile.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-main.jpg" group-title="USA",Pac-12 Network
+http://stream.i4atv.info/ggwp/network/ggp12n-mobile.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tEE0qP.png" group-title="USA",NBA TV
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
