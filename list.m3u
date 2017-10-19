@@ -298,7 +298,7 @@ http://stream.i4atv.info/ggwp/washington/ggp12w-4728.m3u8
 http://stream.i4atv.info/ggwp/losangeles/ggp12l-4728.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg" group-title="USA",Pac-12 Oregon 1080 HD
-http://stream.i4atv.info/ggwp/oregon/ggp12o-4728.m3u8
+http://138.197.197.28/ggwp/oregon/ggp12o-4728.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg" group-title="USA",Pac-12 Arizona 1080 HD
 http://stream.i4atv.info/ggwp/arizona/ggp12a-4728.m3u8
