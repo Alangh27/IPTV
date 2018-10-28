@@ -418,7 +418,7 @@ https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
 http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png" group-title="USA",Golf Channel
-http://81.200.50.5/hls/Golf_Channel_nejtv_portable_low.m3u8
+http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uxUqIVT.png" group-title="USA",Greenbelt TV
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
