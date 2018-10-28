@@ -145,7 +145,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 
 #EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="USA",CBS Sports HQ (Geo)
-https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cbtv17.com/images/iwtv-logo.png" group-title="USA",CBTV 17 - Iowa Western Community College
 https://streaminglibrary.iwcc.edu/iwtv/iwtv/chunklist_w526205618.m3u8
